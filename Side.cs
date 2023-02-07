@@ -87,7 +87,7 @@ class Side
         Console.WriteLine($"Relationships: top: {(SideEnum)relationTop}, bottom: {(SideEnum)relationBottom}, left: {(SideEnum)relationLeft}, right: {(SideEnum)relationRight}");
         Console.WriteLine("F9: Scramble the cube.");
         Console.WriteLine("F10: Reset the cube.");
-        Console.WriteLine("F11: Shows you how to solve the cube.");
+        Console.WriteLine("F11: (NOT IMPLEMENTED YET) Shows you how to solve the cube.");
         Console.WriteLine("Z: Rotate the side that you look at clockwise.");
         Console.WriteLine("X: Rotate the side that you look at anti-clockwise.");
     }
