@@ -1,7 +1,7 @@
 # RubiksCube
 
-A C# program that used to make a rubiks cube in 2D.
-Currently not supporting 3D. (Maybe in the future)
+A C# program that can display a rubiks cube in 2D.
+<br>Currently not supporting 3D. (Maybe in the future)
 The Solve method is not implemented yet.
 
 ## How to use
@@ -9,7 +9,7 @@ The Solve method is not implemented yet.
 Run the program using `dotnet run` in the root directory.
 Follow the instructions on the console.
 
-RECOMMENDED USING A MONOSPACED FONT AND THE NEW WINDOWS TERMINAL.
+`RECOMMENDED USING A MONOSPACED FONT AND THE NEW WINDOWS TERMINAL.`
 
 ## How to build
 
