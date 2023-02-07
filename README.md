@@ -1,6 +1,6 @@
 # RubiksCube
 
-A C# program that can display a rubiks cube in 2D.
+A C# program that can display and interact with a Rubik's Cube in 2D.
 <br>Currently not supporting 3D. (Maybe in the future)
 The Solve method is not implemented yet.
 
